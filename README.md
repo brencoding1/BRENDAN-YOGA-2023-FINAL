@@ -25,4 +25,3 @@ Space Filler
 ![gallery](assets/images/Gallery.png)
 Space Filler
 ![sign up](assets/images/Sign%20Up%20Page.png)
-Space Filler
