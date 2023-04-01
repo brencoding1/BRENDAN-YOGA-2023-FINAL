@@ -4,7 +4,7 @@ Karma Yoga Club is a Yoga fitness website that aims to provide clients with one 
 
 We are a community that prides ourself on keeping eachother motivated and meeping up regualarly at social events.  We have locations throughout Ireland, including Dublin, Limerick and Cork. The site will be targeted towards people who want to practive mindfulness and who are looking for a way to socialise and keep themselves fit. Karma Yoga Club has a lot to offer and oour easily navigatable website is just the start.
 
-<- multiview image here ->
+![responsive design](assets/images/Resonsive%20Design.png)
 
 ## Features
 
@@ -88,7 +88,7 @@ I also found that on the sign up page that although details can be sucsessfully 
 
 ## Validator Testing
 
-* HTML - No errors were returned when passing through the official W3C validator
+* HTML - only minor errors were returned when passing through the official W3C validator
 
 * CSS - No errors were found when passing through the official (Jigsaw) validator
 
@@ -110,7 +110,7 @@ From the source section drop-down menu, select the Master Branch
 
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - https://8000-brencoding1-brendanyoga-m4gslbvcmmg.ws-eu93.gitpod.io/index.html
+The live link can be found here - https://brencoding1.github.io/BRENDAN-YOGA-2023-FINAL/
 
 # Credits
 
